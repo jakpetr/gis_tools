@@ -1,3 +1,5 @@
+# we can thank Bhavya for this
+# import the goods
 import sqlite3
 from functools import reduce
 import os

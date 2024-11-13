@@ -1,3 +1,4 @@
+# import the singular good
 import sqlite3
 
 # connect to the SQLite database (geopackage)
